@@ -1,0 +1,11 @@
+C:\Projects\Ecommerce\Ecommerce.Api\Ecommerce.Core\bin\Debug\net7.0\Ecommerce.Core.deps.json
+C:\Projects\Ecommerce\Ecommerce.Api\Ecommerce.Core\bin\Debug\net7.0\Ecommerce.Core.dll
+C:\Projects\Ecommerce\Ecommerce.Api\Ecommerce.Core\bin\Debug\net7.0\Ecommerce.Core.pdb
+C:\Projects\Ecommerce\Ecommerce.Api\Ecommerce.Core\obj\Debug\net7.0\Ecommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Ecommerce\Ecommerce.Api\Ecommerce.Core\obj\Debug\net7.0\Ecommerce.Core.AssemblyInfoInputs.cache
+C:\Projects\Ecommerce\Ecommerce.Api\Ecommerce.Core\obj\Debug\net7.0\Ecommerce.Core.AssemblyInfo.cs
+C:\Projects\Ecommerce\Ecommerce.Api\Ecommerce.Core\obj\Debug\net7.0\Ecommerce.Core.csproj.CoreCompileInputs.cache
+C:\Projects\Ecommerce\Ecommerce.Api\Ecommerce.Core\obj\Debug\net7.0\Ecommerce.Core.dll
+C:\Projects\Ecommerce\Ecommerce.Api\Ecommerce.Core\obj\Debug\net7.0\refint\Ecommerce.Core.dll
+C:\Projects\Ecommerce\Ecommerce.Api\Ecommerce.Core\obj\Debug\net7.0\Ecommerce.Core.pdb
+C:\Projects\Ecommerce\Ecommerce.Api\Ecommerce.Core\obj\Debug\net7.0\ref\Ecommerce.Core.dll
